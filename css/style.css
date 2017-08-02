@@ -1,0 +1,19 @@
+/*公用样式*/
+/*css reset开始*/
+*{
+    margin: 0;
+    padding: 0;
+}
+/*去掉所有链接下划线*/
+a{
+    text-decoration: none;
+}
+/*去掉所有图片边框*/
+img{
+    border: 0;
+}
+/*去掉所有列表的数字和原点*/
+ul,ol {
+    list-style：none;
+}
+/*css reset结束*/
