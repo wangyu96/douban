@@ -9,11 +9,23 @@ a{
     text-decoration: none;
 }
 /*去掉所有图片边框*/
-img{
+img {
     border: 0;
-}
 /*去掉所有列表的数字和原点*/
-ul,ol {
-    list-style：none;
+    list-style:none;
 }
 /*css reset结束*/
+body{
+    background: #ffffff;
+}
+/*nav开始*/
+#nav{
+    height: 84px;
+    background: #cccccc;
+}
+.wrap{
+    width: 950px;
+    background: #ffff00;
+    margin: 0 auto;
+}
+/*nav结束*/
